@@ -6,6 +6,7 @@ int main()
 {
 	cout << "Hello world!" << endl;
 	getchar();
+	getchar();
 
 	return 0;
 }
